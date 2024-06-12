@@ -3,6 +3,7 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 
 ## Slides
 
+[Slide deck](https://github.com/XRecoEU/MultimediaRetrievalXR/blob/main/ICMR2024_Tutorial_MM_Retrieval_in_and_for_XR.pdf)
 
 ## References
 
