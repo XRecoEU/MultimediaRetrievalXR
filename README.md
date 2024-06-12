@@ -14,7 +14,12 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 
 
 ### Search in XR
-
+- [B20] Börlin, S., Gasser, R., Spiess, F., Schuldt, H. (2020). 3D Model Retrieval Using Constructive Solid Geometry in Virtual Reality. AIVR 2020
+- [G18] Giangreco, I. Database Support for Large-Scale Multimedia Retrieval, PhD Thesis, University of Basel, 2018.
+- [G20] Gasser, R., Rossetto, L., Heller, S., Schuldt, H. (2020). Cottontail DB: An Open Source Database System for Multimedia Retrieval and Analysis. ACM Multimedia 2020
+- [R16] Rossetto, L., Giangreco, I., Heller, S. Tanase, C., Schuldt, H. (2016). Searching in Video Collections Using Sketches and Sample Images - The Cineast System. MMM (2) 2016
+- [R18] Rossetto, L. Multi-Modal Video Retrieval, PhD Thesis, University of Basel, 2018.
+- [S23a] Spiess, F., Heller, S., Rossetto, L., Sauter, L., Weber, P., Schuldt, H. Traceable Asynchronous Workflows in Video Retrieval with vitrivr-VR. MMM (1) 2023.
 
 
 ### Search for 2D assets for reconstruction
