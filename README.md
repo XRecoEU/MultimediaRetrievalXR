@@ -8,9 +8,9 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 
 ### Introduction
 
-- [A90] Arnold, Stephen E. "The large data construct: a new frontier in database design." Microcomputers for Information Management 7.3 (1990): 185-203.
-- [B95] Benford, Steve, et al. "VR‐VIBE: A virtual environment for co‐operative information retrieval." Computer Graphics Forum. Vol. 14. No. 3. Edinburgh, UK, 1995.
-- [F93] Fitzmaurice, George W., Shumin Zhai, and Mark H. Chignell. "Virtual reality for palmtop computers." ACM Transactions on Information Systems (TOIS) 11.3 (1993): 197-218.
+- [A90] Arnold, Stephen E. "The large data construct: a new frontier in database design." Microcomputers for Information Management 7.3 (1990): 185-203. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a4f45727a71694feb6472f6148bf6426d6c8d063
+- [B95] Benford, Steve, et al. "VR-VIBE: A virtual environment for co-operative information retrieval." Computer Graphics Forum. Vol. 14. No. 3. Edinburgh, UK, 1995. https://www.academia.edu/download/69408318/j.1467-8659.1995.cgf143_0349.x20210911-31604-1f1pfj6.pdf
+- [F93] Fitzmaurice, George W., Shumin Zhai, and Mark H. Chignell. "Virtual reality for palmtop computers." ACM Transactions on Information Systems (TOIS) 11.3 (1993): 197-218. https://dl.acm.org/doi/pdf/10.1145/159161.159160
 
 
 ### Search in XR
