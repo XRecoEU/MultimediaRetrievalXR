@@ -36,12 +36,11 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 - [LR19] https://landmarksworkshop.github.io/CVPRW2019
 - [LR20] https://ilr-workshop.github.io/ECCVW2020/
 - [LR21] https://ilr-workshop.github.io/ICCVW2021/
-- [M20] Mildenhall, Ben, et al. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis." ECCV, 2020. 
+- [M20] Mildenhall, Ben, et al. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis." ECCV, 2020. https://dl.acm.org/doi/pdf/10.1145/3503250
 - [ME] http://multimediaeval.org/
-- [N17] Noh, H. et al. “Large-scale image retrieval with attentive deep local features, “ CVPR 2017.
-- [N17] Noh, H. et al. “Large-scale image retrieval with attentive deep local features, “ CVPR 2017.
-- [N24a] Neuschmied, H., and W. Bailer. "Mining Landmark Images for Scene Reconstruction from Weakly Annotated Video Collections," MMM 2024.
-- [N24b] Neuschmied, H., and W. Bailer. "Efficient Few-Shot Incremental Training for Landmark Recognition”, Video4IMX @ ACM IMX 2024.
+- [N17] Noh, H. et al. “Large-scale image retrieval with attentive deep local features, “ CVPR 2017. http://openaccess.thecvf.com/content_ICCV_2017/papers/Noh_Large-Scale_Image_Retrieval_ICCV_2017_paper.pdf
+- [N24a] Neuschmied, H., and W. Bailer. "Mining Landmark Images for Scene Reconstruction from Weakly Annotated Video Collections," MMM 2024. https://zenodo.org/records/10636377/files/MMM2024_Weakly_supervised_classification.pdf?download=1
+- [N24b] Neuschmied, H., and W. Bailer. "Efficient Few-Shot Incremental Training for Landmark Recognition”, Video4IMX @ ACM IMX 2024. (to be published)
 - [P07] Philbin, J., et al., “Object retrieval with large vocabularies and fast spatial matching, “ CVPR 2007.
 - [P08] Philbin, J. et al. “Lost in quantization: Improving particular object retrieval in large scale image databases,” CVPR 2008.
 - [R23] Razali, M.N.B. et al, “Landmark recognition model for smart tourism using lightweight deep learning and linear discriminant analysis, “ IJACSA 2023.
