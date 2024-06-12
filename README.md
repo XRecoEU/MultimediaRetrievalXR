@@ -41,20 +41,20 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 - [N17] Noh, H. et al. “Large-scale image retrieval with attentive deep local features, “ CVPR 2017. http://openaccess.thecvf.com/content_ICCV_2017/papers/Noh_Large-Scale_Image_Retrieval_ICCV_2017_paper.pdf
 - [N24a] Neuschmied, H., and W. Bailer. "Mining Landmark Images for Scene Reconstruction from Weakly Annotated Video Collections," MMM 2024. https://zenodo.org/records/10636377/files/MMM2024_Weakly_supervised_classification.pdf?download=1
 - [N24b] Neuschmied, H., and W. Bailer. "Efficient Few-Shot Incremental Training for Landmark Recognition”, Video4IMX @ ACM IMX 2024. (to be published)
-- [P07] Philbin, J., et al., “Object retrieval with large vocabularies and fast spatial matching, “ CVPR 2007.
-- [P08] Philbin, J. et al. “Lost in quantization: Improving particular object retrieval in large scale image databases,” CVPR 2008.
-- [R23] Razali, M.N.B. et al, “Landmark recognition model for smart tourism using lightweight deep learning and linear discriminant analysis, “ IJACSA 2023.
-- [SF16] Schonberger, Johannes L., and Jan-Michael Frahm. "Structure-from-motion revisited." ICPR. 2016.
-- [T13] Torii, A. et al. “Visual place recognition with repetitive structures,“ CVPR 2013.
-- [T15] Torii, A. et al. “24/7 place recognition by view synthesis,“ CVPR 2015.
+- [P07] Philbin, J., et al., “Object retrieval with large vocabularies and fast spatial matching, “ CVPR 2007. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=943d793f6cbbc6551d758c1eefca2a9333bd8921
+- [P08] Philbin, J. et al. “Lost in quantization: Improving particular object retrieval in large scale image databases,” CVPR 2008. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62fb8b5f70e454ddfd35d6c338cfdb6e42f41e85
+- [R23] Razali, M.N.B. et al, “Landmark recognition model for smart tourism using lightweight deep learning and linear discriminant analysis, “ IJACSA 2023. https://www.researchgate.net/profile/Mohd-Norhisham-Razali-2/publication/368881219_Landmark_Recognition_Model_for_Smart_Tourism_using_Lightweight_Deep_Learning_and_Linear_Discriminant_Analysis/links/63ff1f9b574950594553b31b/Landmark-Recognition-Model-for-Smart-Tourism-using-Lightweight-Deep-Learning-and-Linear-Discriminant-Analysis.pdf
+- [SF16] Schonberger, Johannes L., and Jan-Michael Frahm. "Structure-from-motion revisited." ICPR. 2016. https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf
+- [T13] Torii, A. et al. “Visual place recognition with repetitive structures,“ CVPR 2013. https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Torii_Visual_Place_Recognition_2013_CVPR_paper.pdf
+- [T15] Torii, A. et al. “24/7 place recognition by view synthesis,“ CVPR 2015. https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Torii_247_Place_Recognition_2015_CVPR_paper.pdf
 - [Visu] https://visulise.com/how-long-does-it-take-to-make-a-3d-model/
-- [W20] Wang, Xin, et al. "Frustratingly simple few-shot object detection." Proceedings of the 37th International Conference on Machine Learning. 2020.
-- [W20a] Weyand, T. et al. “Google landmarks dataset v2-a largescale benchmark for instance-level recognition and retrieval, “ CVPR 2020.
-- [W20b] Warburg F. et al. “Mapillary street-level sequences: A dataset for lifelong place recognition” CVPR 2020
+- [W20] Wang, Xin, et al. "Frustratingly simple few-shot object detection." Proceedings of the 37th International Conference on Machine Learning. 2020. https://arxiv.org/pdf/2003.06957
+- [W20a] Weyand, T. et al. “Google landmarks dataset v2-a largescale benchmark for instance-level recognition and retrieval, “ CVPR 2020. https://openaccess.thecvf.com/content_CVPR_2020/papers/Weyand_Google_Landmarks_Dataset_v2_-_A_Large-Scale_Benchmark_for_Instance-Level_CVPR_2020_paper.pdf
+- [W20b] Warburg F. et al. “Mapillary street-level sequences: A dataset for lifelong place recognition” CVPR 2020. https://openaccess.thecvf.com/content_CVPR_2020/papers/Warburg_Mapillary_Street-Level_Sequences_A_Dataset_for_Lifelong_Place_Recognition_CVPR_2020_paper.pdf
 - [Y18] Yu, F, “Bdd100k: A large-scale diverse driving video database,“ https://bair.berkeley.edu/blog/2018/05/30/bdd (2018).
-- [Y22] Yang, M. et al. “2nd place solution to google landmark retrieval 2020,” arXiv:2210.01624, 2022.
-- [Z10] Zamir, A. R., “Accurate image localization based on google maps street view, “ ECCV 2010.
-- [Z20] Zhuang, Peiqin, et al. "Learning attentive pairwise interaction for fine-grained classification." AAAI 2020.
+- [Y22] Yang, M. et al. “2nd place solution to google landmark retrieval 2020,” arXiv:2210.01624, 2022. https://arxiv.org/pdf/2110.04294
+- [Z10] Zamir, A. R., “Accurate image localization based on google maps street view, “ ECCV 2010. https://www.crcv.ucf.edu/wp-content/uploads/2019/10/Zamir_ECCV_2010.pdf
+- [Z20] Zhuang, Peiqin, et al. "Learning attentive pairwise interaction for fine-grained classification." AAAI 2020. https://ojs.aaai.org/index.php/AAAI/article/download/7016/6870
 
 ### Search for 3D assets
 
