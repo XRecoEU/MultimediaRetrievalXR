@@ -14,8 +14,8 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 
 
 ### Search in XR
-- [B20] Börlin, S., Gasser, R., Spiess, F., Schuldt, H. (2020). 3D Model Retrieval Using Constructive Solid Geometry in Virtual Reality. AIVR 2020
-- [C24] Cheng, T., Song, L., Ge, Y., Liu, W., Wang, X., Shan, Y.: YOLO-World: Real-Time Open-Vocabulary Object Detection. CoRR abs/2401.17270 (2024)
+- [B20] Börlin, S., Gasser, R., Spiess, F., Schuldt, H. (2020). 3D Model Retrieval Using Constructive Solid Geometry in Virtual Reality. AIVR 2020. https://ieeexplore.ieee.org/iel7/9318989/9319041/09319112.pdf?casa_token=CouMVYz5KzgAAAAA:2AItpxoYfWIz6ZnfzUmPfvHuQE9vnvFLsvLNUKZbGn6MddjnefHIEu5QSRe5R3jNTm2KvfW3Umvi6w
+- [C24] Cheng, T., Song, L., Ge, Y., Liu, W., Wang, X., Shan, Y.: YOLO-World: Real-Time Open-Vocabulary Object Detection. CoRR abs/2401.17270 (2024). https://arxiv.org/html/2401.17270v3
 - [G18] Giangreco, I. Database Support for Large-Scale Multimedia Retrieval, PhD Thesis, University of Basel, 2018.
 - [G20] Gasser, R., Rossetto, L., Heller, S., Schuldt, H. (2020). Cottontail DB: An Open Source Database System for Multimedia Retrieval and Analysis. ACM Multimedia 2020. https://edoc.unibas.ch/81639/1/20210607120331_60bdeef340dc9.pdf
 - [R16] Rossetto, L., Giangreco, I., Heller, S. Tanase, C., Schuldt, H. (2016). Searching in Video Collections Using Sketches and Sample Images - The Cineast System. MMM (2) 2016. http://lucaro.ch/papers/MMM16_cineast_demo.pdf
