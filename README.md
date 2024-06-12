@@ -29,9 +29,9 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 - [C11] Chen, D. M. et al. “City-scale landmark identification on mobile devices“ CVPR 2011. http://web.stanford.edu/~bgirod/pdfs/Chen_CVPR2011.pdf
 - [D18] Duan, Ling-Yu, et al. "Compact descriptors for video analysis: The emerging MPEG standard." IEEE MultiMedia 2018. https://ieeexplore.ieee.org/iel7/93/5255202/08509139.pdf?casa_token=x8bJFJkicYcAAAAA:fjeMV3tk20fbanzMnit9gXo7zacyzIzJL9H1dsCn6GAPwraReOwKi9wU7_kaXgxwFoFGXDGZF4GmMA
 - [ILR] https://ilr-workshop.github.io/ECCVW2022/
-- [K21] Kordopatis-Zilos G. et al. “Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation,” ICMR 2021.
-- [K23] Kerbl, B., et al. "3d gaussian splatting for real-time radiance field rendering." ACM Transactions on Graphics 42.4 (2023): 1-14.
-- [L21] Liu, Z., et al. “Swin transformer: Hierarchical vision transformer using shifted windows,“ CVPR 2021.
+- [K21] Kordopatis-Zilos G. et al. “Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation,” ICMR 2021. https://arxiv.org/pdf/2105.07645
+- [K23] Kerbl, B., et al. "3d gaussian splatting for real-time radiance field rendering." ACM Transactions on Graphics 42.4 (2023): 1-14. https://sgvr.kaist.ac.kr/~sungeui/ICG/Students/[CS482]%203D%20Gaussian%20Splatting%20for%20Real-Time%20Radiance%20Field%20Rendering.pdf
+- [L21] Liu, Z., et al. “Swin transformer: Hierarchical vision transformer using shifted windows,“ CVPR 2021. http://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf
 - [LR18] https://landmarksworkshop.github.io/CVPRW2018/
 - [LR19] https://landmarksworkshop.github.io/CVPRW2019
 - [LR20] https://ilr-workshop.github.io/ECCVW2020/
