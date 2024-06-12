@@ -24,10 +24,10 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 
 ### Search for 2D assets for reconstruction
 
-- [A21] Ayush K. et al. “Geography-Aware Self-Supervised Learning,” ICCV 2021
-- [B22] Berton G. et al. “Deep Visual Geo-localization Benchmark,” CVPR 2022
-- [C11] Chen, D. M. et al. “City-scale landmark identification on mobile devices“ CVPR 2011. 
-- [D18] Duan, Ling-Yu, et al. "Compact descriptors for video analysis: The emerging MPEG standard." IEEE MultiMedia 2018.
+- [A21] Ayush K. et al. “Geography-Aware Self-Supervised Learning,” ICCV 2021 https://openaccess.thecvf.com/content/ICCV2021/papers/Ayush_Geography-Aware_Self-Supervised_Learning_ICCV_2021_paper.pdf
+- [B22] Berton G. et al. “Deep Visual Geo-localization Benchmark,” CVPR 2022 https://openaccess.thecvf.com/content/CVPR2022/papers/Berton_Deep_Visual_Geo-Localization_Benchmark_CVPR_2022_paper.pdf
+- [C11] Chen, D. M. et al. “City-scale landmark identification on mobile devices“ CVPR 2011. http://web.stanford.edu/~bgirod/pdfs/Chen_CVPR2011.pdf
+- [D18] Duan, Ling-Yu, et al. "Compact descriptors for video analysis: The emerging MPEG standard." IEEE MultiMedia 2018. https://ieeexplore.ieee.org/iel7/93/5255202/08509139.pdf?casa_token=x8bJFJkicYcAAAAA:fjeMV3tk20fbanzMnit9gXo7zacyzIzJL9H1dsCn6GAPwraReOwKi9wU7_kaXgxwFoFGXDGZF4GmMA
 - [ILR] https://ilr-workshop.github.io/ECCVW2022/
 - [K21] Kordopatis-Zilos G. et al. “Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation,” ICMR 2021.
 - [K23] Kerbl, B., et al. "3d gaussian splatting for real-time radiance field rendering." ACM Transactions on Graphics 42.4 (2023): 1-14.
