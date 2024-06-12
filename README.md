@@ -78,5 +78,5 @@ Materials can be found in a [this bibliography](https://github.com/mpegia/3D-Obj
 ## Acknowledgement
 This work has received funding from the European Union’s Horizon Europe Research and Innovation Programme under grant agreement No 101070250 (XReco)[https://xreco.eu/].
 
-<img src="XR-logo_DEF_RGB_300px.png"
+<img src="XR-logo_DEF_RGB_300px.png" />
 
