@@ -57,3 +57,7 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 Materials can be found in a [this bibliography](https://github.com/mpegia/3D-Object-Retrieval-Methods-Bibliography).
 
 ### Evaluation
+
+- [L22] J. Lokoč et al: A Task Category Space for User-Centric Comparative Multimedia Search Evaluations, MMM 2022
+- [S24] K. Schall et al. "Interactive multimodal video search: an extended post-evaluation for the VBS 2022 competition." IJMIR 13(2), 2024.
+
