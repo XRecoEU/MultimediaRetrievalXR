@@ -74,3 +74,9 @@ Materials can be found in a [this bibliography](https://github.com/mpegia/3D-Obj
 - [S23b] Spiess, F., Gasser, R., Heller, S., Schuldt, H. Rossetto, L. (2023). A Comparison of Video Browsing Performance between Desktop and Virtual Reality Interfaces. ICMR 2023
 - [S24] K. Schall et al. "Interactive multimodal video search: an extended post-evaluation for the VBS 2022 competition." IJMIR 13(2), 2024.
 
+
+## Acknowledgement
+This work has received funding from the European Union’s Horizon Europe Research and Innovation Programme under grant agreement No 101070250 (XReco)[https://xreco.eu/].
+
+<img src="img/XR-logo_DEF_RGB_300px.png"
+
