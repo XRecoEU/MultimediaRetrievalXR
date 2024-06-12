@@ -62,17 +62,15 @@ Materials can be found in a [this bibliography](https://github.com/mpegia/3D-Obj
 
 ### Evaluation
 
-- [G20] Gasser, R., Rossetto, L., Heller, S., Schuldt, H. (2020). Cottontail DB: An Open Source Database System for Multimedia Retrieval and Analysis. ACM Multimedia 2020
-- [L22] J. Lokoč et al: A Task Category Space for User-Centric Comparative Multimedia Search Evaluations, MMM 2022
-- [R16] Rossetto, L., Giangreco, I., Heller, S. Tanase, C., Schuldt, H. (2016). Searching in Video Collections Using Sketches and Sample Images - The Cineast System. MMM (2) 2016
-- [R18] Rossetto, L. Multi-Modal Video Retrieval, PhD Thesis, University of Basel, 2018.
-- [S23b] Spiess, F., Heller, S., Rossetto, L., Sauter, L., Weber, P., Schuldt, H. Traceable Asynchronous Workflows in Video Retrieval with vitrivr-VR. MMM (1) 2023.
-- [S24] K. Schall et al. "Interactive multimodal video search: an extended post-evaluation for the VBS 2022 competition." IJMIR 13(2), 2024.
-
-- [L22] J. Lokoč et al: A Task Category Space for User-Centric Comparative Multimedia Search Evaluations, MMM 2022
-- [S23b] Spiess, F., Gasser, R., Heller, S., Schuldt, H. Rossetto, L. (2023). A Comparison of Video Browsing Performance between Desktop and Virtual Reality Interfaces. ICMR 2023
-- [S24] K. Schall et al. "Interactive multimodal video search: an extended post-evaluation for the VBS 2022 competition." IJMIR 13(2), 2024.
-
+- [G20] Gasser, R., Rossetto, L., Heller, S., Schuldt, H. (2020). Cottontail DB: An Open Source Database System for Multimedia Retrieval and Analysis. ACM Multimedia 2020. https://edoc.unibas.ch/81639/1/20210607120331_60bdeef340dc9.pdf
+- [L22] J. Lokoč et al: A Task Category Space for User-Centric Comparative Multimedia Search Evaluations, MMM 2022. https://doras.dcu.ie/27657/1/user_centric_video_search.pdf
+- [R16] Rossetto, L., Giangreco, I., Heller, S. Tanase, C., Schuldt, H. (2016). Searching in Video Collections Using Sketches and Sample Images - The Cineast System. MMM (2) 2016. http://lucaro.ch/papers/MMM16_cineast_demo.pdf
+- [R18] Rossetto, L. Multi-Modal Video Retrieval, PhD Thesis, University of Basel, 2018. https://edoc.unibas.ch/66289/1/Multi-Modal_Video_Retrieval.pdf
+- [S23b] Spiess, F., Heller, S., Rossetto, L., Sauter, L., Weber, P., Schuldt, H. Traceable Asynchronous Workflows in Video Retrieval with vitrivr-VR. MMM (1) 2023. http://lucaro.ch/papers/VBS23_vitrivr_VR.pdf
+- [S24] K. Schall et al. "Interactive multimodal video search: an extended post-evaluation for the VBS 2022 competition." IJMIR 13(2), 2024. https://link.springer.com/article/10.1007/s13735-024-00325-9
+- [L22] J. Lokoč et al: A Task Category Space for User-Centric Comparative Multimedia Search Evaluations, MMM 2022. https://doras.dcu.ie/27657/1/user_centric_video_search.pdf
+- [S23b] Spiess, F., Gasser, R., Heller, S., Schuldt, H. Rossetto, L. (2023). A Comparison of Video Browsing Performance between Desktop and Virtual Reality Interfaces. ICMR 2023. https://dl.acm.org/doi/pdf/10.1145/3591106.3592292
+- [S24] K. Schall et al. "Interactive multimodal video search: an extended post-evaluation for the VBS 2022 competition." IJMIR 13(2), 2024. https://link.springer.com/article/10.1007/s13735-024-00325-9
 
 ## Acknowledgement
 This work has received funding from the European Union’s Horizon Europe Research and Innovation Programme under grant agreement No 101070250 [XReco](https://xreco.eu/)
