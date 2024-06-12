@@ -17,11 +17,10 @@ The repository contains materials for the Tutorial "Multimedia Retrieval in and 
 - [B20] Börlin, S., Gasser, R., Spiess, F., Schuldt, H. (2020). 3D Model Retrieval Using Constructive Solid Geometry in Virtual Reality. AIVR 2020
 - [C24] Cheng, T., Song, L., Ge, Y., Liu, W., Wang, X., Shan, Y.: YOLO-World: Real-Time Open-Vocabulary Object Detection. CoRR abs/2401.17270 (2024)
 - [G18] Giangreco, I. Database Support for Large-Scale Multimedia Retrieval, PhD Thesis, University of Basel, 2018.
-- [G20] Gasser, R., Rossetto, L., Heller, S., Schuldt, H. (2020). Cottontail DB: An Open Source Database System for Multimedia Retrieval and Analysis. ACM Multimedia 2020
-- [R16] Rossetto, L., Giangreco, I., Heller, S. Tanase, C., Schuldt, H. (2016). Searching in Video Collections Using Sketches and Sample Images - The Cineast System. MMM (2) 2016
-- [R18] Rossetto, L. Multi-Modal Video Retrieval, PhD Thesis, University of Basel, 2018.
-- [S23a] Spiess, F., Heller, S., Rossetto, L., Sauter, L., Weber, P., Schuldt, H. Traceable Asynchronous Workflows in Video Retrieval with vitrivr-VR. MMM (1) 2023.
-
+- [G20] Gasser, R., Rossetto, L., Heller, S., Schuldt, H. (2020). Cottontail DB: An Open Source Database System for Multimedia Retrieval and Analysis. ACM Multimedia 2020. https://edoc.unibas.ch/81639/1/20210607120331_60bdeef340dc9.pdf
+- [R16] Rossetto, L., Giangreco, I., Heller, S. Tanase, C., Schuldt, H. (2016). Searching in Video Collections Using Sketches and Sample Images - The Cineast System. MMM (2) 2016. http://lucaro.ch/papers/MMM16_cineast_demo.pdf
+- [R18] Rossetto, L. Multi-Modal Video Retrieval, PhD Thesis, University of Basel, 2018. https://edoc.unibas.ch/66289/1/Multi-Modal_Video_Retrieval.pdf
+- [S23b] Spiess, F., Gasser, R., Heller, S., Schuldt, H. Rossetto, L. (2023). A Comparison of Video Browsing Performance between Desktop and Virtual Reality Interfaces. ICMR 2023. https://dl.acm.org/doi/pdf/10.1145/3591106.3592292
 
 ### Search for 2D assets for reconstruction
 
