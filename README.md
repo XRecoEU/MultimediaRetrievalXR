@@ -59,5 +59,6 @@ Materials can be found in a [this bibliography](https://github.com/mpegia/3D-Obj
 ### Evaluation
 
 - [L22] J. Lokoč et al: A Task Category Space for User-Centric Comparative Multimedia Search Evaluations, MMM 2022
+- [S23b] Spiess, F., Gasser, R., Heller, S., Schuldt, H. Rossetto, L. (2023). A Comparison of Video Browsing Performance between Desktop and Virtual Reality Interfaces. ICMR 2023
 - [S24] K. Schall et al. "Interactive multimodal video search: an extended post-evaluation for the VBS 2022 competition." IJMIR 13(2), 2024.
 
